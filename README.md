@@ -1,0 +1,2 @@
+# AzureAIFundamentals
+Azure AI Fundamentals
